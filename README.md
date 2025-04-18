@@ -17,6 +17,6 @@ kv，绑定KV命名空间。
 
 IP优选工具的使用
 win 电脑下载 IP优选工具/CF优选官方IP[win电脑版].7z，解压后，退出VPN，运行本软件。
-下载CloudflareScanner，解压后，退出VPN，运行本软件。
+下载CloudflareScanner(https://github.com/bia-pain-bache/Cloudflare-Clean-IP-Scanner/releases/tag/v2.2.5)，解压后，退出VPN，运行本软件。
 
 特别感谢
